@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abijith K A
 - 👀 I’m interested in Android Development 
-- 🌱 I’m currently Android 
+- 🌱 I’m currently learning Android 
 - 💞️ I’m looking to collaborate on Android development using Java and also doing on web Application using Bootstrap
 - 📫 How to reach me ...Update Soon !
 
